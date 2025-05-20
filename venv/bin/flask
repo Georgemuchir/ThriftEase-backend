@@ -1,4 +1,4 @@
-#!/home/george/Development/ThriftEase-backend/venv/bin/python3
+#!/home/muchiri/development/triftproject/ThriftEase-backend/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
